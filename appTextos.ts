@@ -16,8 +16,8 @@ let texto:string = `Hola ${ nombre } ${ apellido } (${edad})`;
 
 //Multiples líneas 
 let textoVariasLineas:string = `
-Hola ${ nombre } 
+Hola!! ${ nombre } 
 ${ apellido } 
-(${edad})`;
+Edad (${edad})`;
 
 console.log(textoVariasLineas);

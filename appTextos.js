@@ -11,5 +11,5 @@ var edad = 33;
 //Texto en 1 sola línea
 var texto = "Hola " + nombre + " " + apellido + " (" + edad + ")";
 //Multiples líneas 
-var textoVariasLineas = "\nHola " + nombre + " \n" + apellido + " \n(" + edad + ")";
+var textoVariasLineas = "\nHola!! " + nombre + " \n" + apellido + " \nEdad (" + edad + ")";
 console.log(textoVariasLineas);
